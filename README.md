@@ -1,7 +1,7 @@
 # Lossy-Image-Compressor-Palette-reduction-Color-clustering
 Color Clustering / Lossy Image Compressor / Palette reduction
 Algorithm by Mulindwa Joseph
-josephmulindwa@gmail.com
+josephmulindwa490@gmail.com
 
 The algorithm is simple & still being perfected. Any help is appreciated.
 
